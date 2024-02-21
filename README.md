@@ -64,6 +64,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Search engines
 
+- [Kazimir.ai](https://kazimir.ai) - A search engine designed to search AI-generated images and videos⭐
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
 - [Metaphor](https://metaphor.systems/) - Language model powered search.
 - [Phind](https://phind.com/) - AI-based search engine.
